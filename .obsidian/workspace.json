@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "d6e9fbd4b0f3e792",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fda8921e356f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9766d2f5a0632b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FlexBison Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FlexBison Study"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92b87de98fe3faa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5efd338d3a01e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109e777da191d557",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1259ece0bdadbf51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "551fa46d4f0dd239",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45201de4abd6aabc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c63a6effd029ee45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171de01bb6eddc56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FlexBison Study.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para FlexBison Study"
+            }
+          },
+          {
+            "id": "3cad93a9863652be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FlexBison Study.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para FlexBison Study"
+            }
+          },
+          {
+            "id": "43170d45087e324e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "9ce446df58389c39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "61a7bc02adc906ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "exercises/1st.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 1st"
+            }
+          },
+          {
+            "id": "cab313909480d9c8",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "FlexBison Study.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "729aa5f9be882437",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "random-note:Abrir nota aleatória": false,
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "f9766d2f5a0632b4",
+  "lastOpenFiles": [
+    "FlexBison_Study",
+    "exercises/2nd/fb1-2.l.ts",
+    "exercises/3rd/a.out",
+    "exercises/3rd/lex.yy.c",
+    "exercises/3rd/fb1-3.l~",
+    "exercises/3rd/fb1-3.l",
+    "exercises/3rd",
+    "exercises/2rd",
+    "exercises/2nd/lex.yy.c",
+    "exercises/2nd/fb1-2.l",
+    "exercises/2nd/fb1-2.l.ts~",
+    "exercises/2nd/2nd.md",
+    "FlexBison Study.md",
+    "exercises/1st/1st.md",
+    "exercises/1st.md",
+    "1st.md",
+    "cd.md",
+    "Bem-vindo.md",
+    "crie um link.md"
+  ]
+}
