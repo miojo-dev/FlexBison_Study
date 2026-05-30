@@ -213,6 +213,7 @@
   },
   "active": "f9766d2f5a0632b4",
   "lastOpenFiles": [
+    "main.js",
     "FlexBison_Study",
     "exercises/2nd/fb1-2.l.ts",
     "exercises/3rd/a.out",
@@ -223,7 +224,6 @@
     "exercises/2rd",
     "exercises/2nd/lex.yy.c",
     "exercises/2nd/fb1-2.l",
-    "exercises/2nd/fb1-2.l.ts~",
     "exercises/2nd/2nd.md",
     "FlexBison Study.md",
     "exercises/1st/1st.md",
