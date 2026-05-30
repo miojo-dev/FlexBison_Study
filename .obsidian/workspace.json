@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "30fda8921e356f59",
+        "id": "b0ff47680b46e457",
         "type": "tabs",
         "children": [
           {
-            "id": "f9766d2f5a0632b4",
+            "id": "15a304554d1c3bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -211,8 +211,9 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "729aa5f9be882437",
+  "active": "15a304554d1c3bbd",
   "lastOpenFiles": [
+    "README.md",
     "main.js",
     "FlexBison_Study",
     "exercises/2nd/fb1-2.l.ts",
@@ -223,9 +224,7 @@
     "exercises/3rd",
     "exercises/2rd",
     "exercises/2nd/lex.yy.c",
-    "exercises/2nd/fb1-2.l",
     "exercises/2nd/2nd.md",
-    "README.md",
     "exercises/1st/1st.md",
     "exercises/1st.md",
     "1st.md",
