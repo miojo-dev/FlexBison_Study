@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FlexBison Study.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FlexBison Study"
+              "title": "README"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"banner\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercises/1st.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1st"
+              "title": "Sumário de README"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "FlexBison Study.md"
+                "file": "README.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "f9766d2f5a0632b4",
+  "active": "729aa5f9be882437",
   "lastOpenFiles": [
     "main.js",
     "FlexBison_Study",
@@ -225,7 +225,7 @@
     "exercises/2nd/lex.yy.c",
     "exercises/2nd/fb1-2.l",
     "exercises/2nd/2nd.md",
-    "FlexBison Study.md",
+    "README.md",
     "exercises/1st/1st.md",
     "exercises/1st.md",
     "1st.md",

@@ -31,9 +31,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "FlexBison Study.md": {
+  "exercises": "LiFolder",
+  "README.md": {
     "iconName": "LiList",
     "iconColor": "#0cbba7"
-  },
-  "exercises": "LiFolder"
+  }
 }
