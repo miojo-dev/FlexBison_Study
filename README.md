@@ -14,5 +14,5 @@ A literatura escolhida para o estudo é: [flex & bison, by John Levine, O'REiLLY
 ---
 
 ## Tecnologias usadas:
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![C](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)
 - ![FlexBison](https://img.shields.io/badge/flex/bison-FFD43B?style=for-the-badge)
