@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -214,18 +214,18 @@
   "active": "15a304554d1c3bbd",
   "lastOpenFiles": [
     "README.md",
+    "exercises/3rd/lex.yy.c",
+    "exercises/1st/1st.md",
     "main.js",
     "FlexBison_Study",
     "exercises/2nd/fb1-2.l.ts",
     "exercises/3rd/a.out",
-    "exercises/3rd/lex.yy.c",
     "exercises/3rd/fb1-3.l~",
     "exercises/3rd/fb1-3.l",
     "exercises/3rd",
     "exercises/2rd",
     "exercises/2nd/lex.yy.c",
     "exercises/2nd/2nd.md",
-    "exercises/1st/1st.md",
     "exercises/1st.md",
     "1st.md",
     "cd.md",
