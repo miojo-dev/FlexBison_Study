@@ -57,3 +57,5 @@ dkms.conf
 # Obsidian
 .obsidian/plugins/remotely-save/main.js
 
+
+/.obsidian/workspace.json
