@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0ff47680b46e457",
+        "id": "a0474572496b6c36",
         "type": "tabs",
         "children": [
           {
-            "id": "15a304554d1c3bbd",
+            "id": "110b44a980132a84",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -211,7 +211,7 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "15a304554d1c3bbd",
+  "active": "110b44a980132a84",
   "lastOpenFiles": [
     "README.md",
     "exercises/3rd/lex.yy.c",
