@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "exercises/3rd/lex.yy.c",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário de lex.yy"
             }
           },
           {
@@ -171,7 +171,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "README.md"
+                "file": "exercises/3rd/lex.yy.c"
               },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
@@ -215,6 +215,7 @@
   "lastOpenFiles": [
     "README.md",
     "exercises/3rd/lex.yy.c",
+    "exercises/1st/lex.yy.c",
     "exercises/1st/1st.md",
     "main.js",
     "FlexBison_Study",
@@ -224,7 +225,6 @@
     "exercises/3rd/fb1-3.l",
     "exercises/3rd",
     "exercises/2rd",
-    "exercises/2nd/lex.yy.c",
     "exercises/2nd/2nd.md",
     "exercises/1st.md",
     "1st.md",
