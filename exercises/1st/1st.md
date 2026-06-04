@@ -19,6 +19,7 @@ Lorem ipsum dolor sit amet consectetur
 adipiscing elit quisque faucibus
 ^D
 ```
+the "^D" is the command for end of file on Windows is "^Z" (^ = CTRL)
 #### Output:
 ```output
 Linhas:     Palavras:   Caracteres: 
