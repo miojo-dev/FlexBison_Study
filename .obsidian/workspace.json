@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "a0474572496b6c36",
+        "id": "8bf755518388d63d",
         "type": "tabs",
         "children": [
           {
-            "id": "110b44a980132a84",
+            "id": "3036b134635bdced",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "44d4dcb001d5a738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc15791b9d4f4c0d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -41,7 +61,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -186,6 +208,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "4375d24052b8c173",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "Propriedades dos arquivos"
+            }
           }
         ],
         "currentTab": 6
@@ -207,13 +239,13 @@
       "markdown-importer:Abrir importador Markdown": false,
       "random-note:Abrir nota aleatória": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "110b44a980132a84",
+  "active": "cc15791b9d4f4c0d",
   "lastOpenFiles": [
     "README.md",
+    "exercises/3rd/3rd.md",
     "exercises/3rd/lex.yy.c",
     "exercises/1st/lex.yy.c",
     "exercises/1st/1st.md",
