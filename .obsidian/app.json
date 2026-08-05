@@ -1,5 +1,8 @@
 {
   "readableLineLength": true,
   "showInlineTitle": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "openBehavior": "file:README.md",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }
